@@ -1,5 +1,13 @@
 ### introduction for jenkins
 #### workflow 
+
+ ```
+ git add .
+ git status
+ git commit -m "first"
+ git log
+ git push -u origin master
+ ```
 ![preview](images/images01.png)
 ![preview](images/images02.png)
 ![preview](images/images03.png)
