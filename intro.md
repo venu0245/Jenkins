@@ -6,7 +6,9 @@
  git status
  git commit -m "first"
  git log
+ git remote add origin https://github.com/venu0245/Jenkins.git
  git push -u origin master
+ 
  ```
 ![preview](images/images01.png)
 ![preview](images/images02.png)
